@@ -24,13 +24,14 @@ I love working with dashboards, charts, and reports that help businesses make be
 ### 📌 Tableau – Dashboard
 - Built an interactive dashboard using Superstore dataset
 
-  ## 📊 Task-01: Histogram Visualization
-![Task-01 Histogram](histogram.png)
-
 - Included multiple visual elements for better insights  
 
 ### 📌 Tableau – Charts
-- Created bar, line, pie, and scatter charts for data analysis and visualization  
+- Created bar, line, pie, and scatter charts for data analysis and visualization
+
+## 📊 Task-01: Histogram Visualization
+![Task-01 Histogram](histogram.png)
+
 
 ## 📫 Contact
 - **Email:** nehasoni47208@gmail.com  
