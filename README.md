@@ -1,40 +1,32 @@
-# Hi, I'm Neha Ganpat Soni 👋
+# Histogram Analysis
 
-## 🌟 About Me
-I am passionate about Data Analytics and enjoy turning raw data into meaningful insights.  
-I love working with dashboards, charts, and reports that help businesses make better decisions.
+This project visualizes the distribution of population data for the year 2023 using histogram visualization in Python.
 
-## 🛠 Skills
-- **SQL:** Basic Queries  
-- **Excel:** Pivot Tables, VLOOKUP, Charts  
-- **Power BI:** Dashboard Development  
-- **Tableau:** Data Visualization & Dashboards  
-- **Data Cleaning & Handling**  
-- **Data Visualization:** Bar, Line, Pie, Scatter Charts  
+## 📊 Project File
+- `histogram_analysis.ipynb`
 
-## 📂 Academic Projects
-### 📌 Power BI – Superstore Report
-- Created a multi-page dashboard showing sales, profit, and region analysis  
-- Used slicers and KPIs for interactive filtering  
+## 🎯 Objective
+To analyze and understand the distribution of population values for 2023 using histogram.
 
-### 📌 Power BI – Sales Dashboard
-- Cleaned and transformed raw data  
-- Built a sales dashboard with charts and slicers to track performance  
+## 🛠 Tools & Libraries
+- Python
+- Pandas
+- Seaborn
+- Matplotlib
 
-### 📌 Tableau – Dashboard
-- Built an interactive dashboard using Superstore dataset
+## 📌 Process
+- Loaded dataset using pandas  
+- Cleaned data using dropna()  
+- Selected the 2023 population column  
+- Created histogram using seaborn    
+- Visualized results using matplotlib  
 
-- Included multiple visual elements for better insights  
+## 📈 Visualization
+The histogram shows the frequency distribution of population values for the year 2023 along with a KDE curve for better understanding of data spread and density.
 
-### 📌 Tableau – Charts
-- Created bar, line, pie, and scatter charts for data analysis and visualization
+## 🔍 Learning Outcome
+- Univariate data analysis  
+- Data cleaning  
+- Histogram visualization   
+- Data distribution understanding  
 
-## 📊 Task-01: Histogram Visualization
-![Task-01 Histogram](histogram.png)
-
-
-## 📫 Contact
-- **Email:** nehasoni47208@gmail.com  
-- **Location:** India  
-
-⭐ Thank you for visiting my profile! Always learning and improving in the field of Data Analytics.
