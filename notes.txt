@@ -1,43 +1,19 @@
-Project Name: Histogram Analysis of Population Data (2023)
-File: histogram_analysis.ipynb
+Histogram Analysis
 
-Objective:
-To analyze the distribution of population data for the year 2023 using histogram visualization.
+Dataset: Population Data (2023)
+Objective: Visualize distribution using histogram
 
-Dataset:
-Population dataset (CSV format)
+Steps:
+1. Data loaded using pandas
+2. Missing values removed
+3. Selected 2023 population column
+4. Histogram plotted using seaborn
+5. KDE enabled
+6. Output saved as histogram.png
 
-Tools & Libraries:
-- Python
-- Pandas
-- Seaborn
-- Matplotlib
-- Google Colab
+Learning:
+Histogram helps understand data spread, density, and value concentration.
 
-Steps Performed:
-1. Imported required Python libraries
-2. Loaded dataset using pandas
-3. Cleaned data using dropna()
-4. Selected 2023 population column
-5. Created histogram using seaborn
-6. Labeled axes and title
-7. Visualized output using matplotlib
 
-Concepts Used:
-- Data loading
-- Data cleaning
-- Histogram visualization
-- Data interpretation
-
-Visualization:
-Histogram plot showing frequency distribution of population values for the year 2023.
-
-Observations:
-- Histogram shows how population values are distributed
-- Helps identify data concentration and spread
-- Useful for understanding skewness and distribution shape
-
-Learning Outcome:
-Learned how to perform univariate data analysis using histograms and how to visualize data distribution using Python libraries.
 
 
